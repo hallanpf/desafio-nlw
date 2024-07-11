@@ -24,7 +24,6 @@ $ npm install
 ## Iniciando o servidor
 
 ```bash
-# development
 $ npm run dev
 ```
 
